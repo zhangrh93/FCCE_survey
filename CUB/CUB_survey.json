@@ -1,0 +1,637 @@
+{
+    "label": {
+        "y": {
+            "154_178": [
+                0,
+                0
+            ],
+            "72_139": [
+                1,
+                0,
+                0,
+                1
+            ],
+            "106_107": [
+                1,
+                0,
+                1,
+                0
+            ],
+            "142_143": [
+                0,
+                1,
+                1,
+                0
+            ],
+            "153_154": [
+                0,
+                0,
+                1,
+                1
+            ],
+            "59_63": [
+                1,
+                0,
+                0,
+                1
+            ]
+        },
+        "y_": {
+            "154_178": [
+                1,
+                0
+            ],
+            "72_139": [
+                1,
+                0,
+                1,
+                0
+            ],
+            "106_107": [
+                1,
+                0,
+                0,
+                1
+            ],
+            "142_143": [
+                1,
+                0,
+                1,
+                0
+            ],
+            "153_154": [
+                0,
+                1,
+                0,
+                1
+            ],
+            "59_63": [
+                0,
+                1,
+                0,
+                1
+            ]
+        }
+    },
+    "target": {
+        "0": [
+            154,
+            178
+        ],
+        "1": [
+            72,
+            139
+        ],
+        "2": [
+            106,
+            107
+        ],
+        "3": [
+            142,
+            143
+        ],
+        "4": [
+            153,
+            154
+        ],
+        "5": [
+            59,
+            63
+        ]
+    },
+    "FCCE": {
+        "sources": {
+            "0": {
+                "tit": "154_178",
+                "classes": [
+                    154,
+                    178
+                ],
+                "class_names": [
+                    "Warbling_Vireo",
+                    "Tennessee_Warbler"
+                ],
+                "title": "CUB_[154, 178]_8_layer4",
+                "glo": "FCCE/154_178/glo/0_to_1.png",
+                "imgs": [
+                    "FCCE/154_178/imgs/n1_0.png",
+                    "FCCE/154_178/imgs/n2_0.png"
+                ],
+                "glowt": "FCCE/154_178/glo/0_to_1_wt.png",
+                "loc": [
+                    "FCCE/154_178/loc/n1_0_1_to_0.png",
+                    "FCCE/154_178/loc/n2_0_0_to_1.png"
+                ],
+                "locwt": [
+                    "FCCE/154_178/loc/n1_0_wt_1_to_0.png",
+                    "FCCE/154_178/loc/n2_0_wt_0_to_1.png"
+                ]
+            },
+            "1": {
+                "tit": "72_139",
+                "classes": [
+                    72,
+                    139
+                ],
+                "class_names": [
+                    "Blue_Jay",
+                    "Summer_Tanager"
+                ],
+                "title": "CUB_[72, 139]_8_layer4",
+                "glo": "FCCE/72_139/glo/0_to_1.png",
+                "imgs": [
+                    "FCCE/72_139/imgs/n0_1.png",
+                    "FCCE/72_139/imgs/n1_0.png",
+                    "FCCE/72_139/imgs/n2_0.png",
+                    "FCCE/72_139/imgs/n3_1.png"
+                ],
+                "glowt": "FCCE/72_139/glo/0_to_1_wt.png",
+                "loc": [
+                    "FCCE/72_139/loc/n0_1_1_to_0.png",
+                    "FCCE/72_139/loc/n1_0_0_to_1.png",
+                    "FCCE/72_139/loc/n2_0_1_to_0.png",
+                    "FCCE/72_139/loc/n3_1_0_to_1.png"
+                ],
+                "locwt": [
+                    "FCCE/72_139/loc/n0_1_wt_1_to_0.png",
+                    "FCCE/72_139/loc/n1_0_wt_0_to_1.png",
+                    "FCCE/72_139/loc/n2_0_wt_1_to_0.png",
+                    "FCCE/72_139/loc/n3_1_wt_0_to_1.png"
+                ]
+            },
+            "2": {
+                "tit": "106_107",
+                "classes": [
+                    106,
+                    107
+                ],
+                "class_names": [
+                    "Common_Raven",
+                    "White_necked_Raven"
+                ],
+                "title": "CUB_[106, 107]_8_layer4",
+                "glo": "FCCE/106_107/glo/0_to_1.png",
+                "imgs": [
+                    "FCCE/106_107/imgs/n0_1.png",
+                    "FCCE/106_107/imgs/n1_0.png",
+                    "FCCE/106_107/imgs/n2_1.png",
+                    "FCCE/106_107/imgs/n3_0.png"
+                ],
+                "glowt": "FCCE/106_107/glo/0_to_1_wt.png",
+                "loc": [
+                    "FCCE/106_107/loc/n0_1_1_to_0.png",
+                    "FCCE/106_107/loc/n1_0_0_to_1.png",
+                    "FCCE/106_107/loc/n2_1_0_to_1.png",
+                    "FCCE/106_107/loc/n3_0_1_to_0.png"
+                ],
+                "locwt": [
+                    "FCCE/106_107/loc/n0_1_wt_1_to_0.png",
+                    "FCCE/106_107/loc/n1_0_wt_0_to_1.png",
+                    "FCCE/106_107/loc/n2_1_wt_0_to_1.png",
+                    "FCCE/106_107/loc/n3_0_wt_1_to_0.png"
+                ]
+            },
+            "3": {
+                "tit": "142_143",
+                "classes": [
+                    142,
+                    143
+                ],
+                "class_names": [
+                    "Caspian_Tern",
+                    "Common_Tern"
+                ],
+                "title": "CUB_[142, 143]_8_layer4",
+                "glo": "FCCE/142_143/glo/0_to_1.png",
+                "imgs": [
+                    "FCCE/142_143/imgs/n0_0.png",
+                    "FCCE/142_143/imgs/n1_1.png",
+                    "FCCE/142_143/imgs/n2_1.png",
+                    "FCCE/142_143/imgs/n3_0.png"
+                ],
+                "glowt": "FCCE/142_143/glo/0_to_1_wt.png",
+                "loc": [
+                    "FCCE/142_143/loc/n0_0_1_to_0.png",
+                    "FCCE/142_143/loc/n1_1_0_to_1.png",
+                    "FCCE/142_143/loc/n2_1_1_to_0.png",
+                    "FCCE/142_143/loc/n3_0_0_to_1.png"
+                ],
+                "locwt": [
+                    "FCCE/142_143/loc/n0_0_wt_1_to_0.png",
+                    "FCCE/142_143/loc/n1_1_wt_0_to_1.png",
+                    "FCCE/142_143/loc/n2_1_wt_1_to_0.png",
+                    "FCCE/142_143/loc/n3_0_wt_0_to_1.png"
+                ]
+            },
+            "4": {
+                "tit": "153_154",
+                "classes": [
+                    153,
+                    154
+                ],
+                "class_names": [
+                    "Red_eyed_Vireo",
+                    "Warbling_Vireo"
+                ],
+                "title": "CUB_[153, 154]_8_layer4",
+                "glo": "FCCE/153_154/glo/0_to_1.png",
+                "imgs": [
+                    "FCCE/153_154/imgs/n0_0.png",
+                    "FCCE/153_154/imgs/n1_0.png",
+                    "FCCE/153_154/imgs/n2_1.png",
+                    "FCCE/153_154/imgs/n3_1.png"
+                ],
+                "glowt": "FCCE/153_154/glo/0_to_1_wt.png",
+                "loc": [
+                    "FCCE/153_154/loc/n0_0_0_to_1.png",
+                    "FCCE/153_154/loc/n1_0_1_to_0.png",
+                    "FCCE/153_154/loc/n2_1_0_to_1.png",
+                    "FCCE/153_154/loc/n3_1_1_to_0.png"
+                ],
+                "locwt": [
+                    "FCCE/153_154/loc/n0_0_wt_0_to_1.png",
+                    "FCCE/153_154/loc/n1_0_wt_1_to_0.png",
+                    "FCCE/153_154/loc/n2_1_wt_0_to_1.png",
+                    "FCCE/153_154/loc/n3_1_wt_1_to_0.png"
+                ]
+            },
+            "5": {
+                "tit": "59_63",
+                "classes": [
+                    59,
+                    63
+                ],
+                "class_names": [
+                    "Glaucous_winged_Gull",
+                    "Ring_billed_Gull"
+                ],
+                "title": "CUB_[59, 63]_8_layer4",
+                "glo": "FCCE/59_63/glo/0_to_1.png",
+                "imgs": [
+                    "FCCE/59_63/imgs/n0_1.png",
+                    "FCCE/59_63/imgs/n1_0.png",
+                    "FCCE/59_63/imgs/n2_0.png",
+                    "FCCE/59_63/imgs/n3_1.png"
+                ],
+                "glowt": "FCCE/59_63/glo/0_to_1_wt.png",
+                "loc": [
+                    "FCCE/59_63/loc/n0_1_0_to_1.png",
+                    "FCCE/59_63/loc/n1_0_1_to_0.png",
+                    "FCCE/59_63/loc/n2_0_0_to_1.png",
+                    "FCCE/59_63/loc/n3_1_1_to_0.png"
+                ],
+                "locwt": [
+                    "FCCE/59_63/loc/n0_1_wt_0_to_1.png",
+                    "FCCE/59_63/loc/n1_0_wt_1_to_0.png",
+                    "FCCE/59_63/loc/n2_0_wt_0_to_1.png",
+                    "FCCE/59_63/loc/n3_1_wt_1_to_0.png"
+                ]
+            }
+        },
+        "reason": "The overall image is darker than usual. The AI robot confused feature 2 with feature 0. Also, the AI robot failed to identify the small strip near the eyes as in feature 1."
+    },
+    "ICE": {
+        "sources": {
+            "0": {
+                "tit": "154_178",
+                "classes": [
+                    154,
+                    178
+                ],
+                "class_names": [
+                    "Warbling_Vireo",
+                    "Tennessee_Warbler"
+                ],
+                "title": "CUB_[154, 178]_8_layer4",
+                "glo": "ICE/154_178/glo/0_1.png",
+                "imgs": [
+                    "ICE/154_178/imgs/n1_0.png",
+                    "ICE/154_178/imgs/n2_0.png"
+                ],
+                "glowt": "ICE/154_178/glo/0_1_wt.png",
+                "loc": [
+                    "ICE/154_178/loc/nn1_0_0_1.png",
+                    "ICE/154_178/loc/nn2_0_0_1.png"
+                ],
+                "locwt": [
+                    "ICE/154_178/loc/nn1_0_wt_0_1.png",
+                    "ICE/154_178/loc/nn2_0_wt_0_1.png"
+                ]
+            },
+            "1": {
+                "tit": "72_139",
+                "classes": [
+                    72,
+                    139
+                ],
+                "class_names": [
+                    "Blue_Jay",
+                    "Summer_Tanager"
+                ],
+                "title": "CUB_[72, 139]_8_layer4",
+                "glo": "ICE/72_139/glo/0_1.png",
+                "imgs": [
+                    "ICE/72_139/imgs/n0_1.png",
+                    "ICE/72_139/imgs/n1_0.png",
+                    "ICE/72_139/imgs/n2_0.png",
+                    "ICE/72_139/imgs/n3_1.png"
+                ],
+                "glowt": "ICE/72_139/glo/0_1_wt.png",
+                "loc": [
+                    "ICE/72_139/loc/nn0_1_0_1.png",
+                    "ICE/72_139/loc/nn1_0_0_1.png",
+                    "ICE/72_139/loc/nn2_0_0_1.png",
+                    "ICE/72_139/loc/nn3_1_0_1.png"
+                ],
+                "locwt": [
+                    "ICE/72_139/loc/nn0_1_wt_0_1.png",
+                    "ICE/72_139/loc/nn1_0_wt_0_1.png",
+                    "ICE/72_139/loc/nn2_0_wt_0_1.png",
+                    "ICE/72_139/loc/nn3_1_wt_0_1.png"
+                ]
+            },
+            "2": {
+                "tit": "106_107",
+                "classes": [
+                    106,
+                    107
+                ],
+                "class_names": [
+                    "Common_Raven",
+                    "White_necked_Raven"
+                ],
+                "title": "CUB_[106, 107]_8_layer4",
+                "glo": "ICE/106_107/glo/0_1.png",
+                "imgs": [
+                    "ICE/106_107/imgs/n0_1.png",
+                    "ICE/106_107/imgs/n1_0.png",
+                    "ICE/106_107/imgs/n2_1.png",
+                    "ICE/106_107/imgs/n3_0.png"
+                ],
+                "glowt": "ICE/106_107/glo/0_1_wt.png",
+                "loc": [
+                    "ICE/106_107/loc/nn0_1_0_1.png",
+                    "ICE/106_107/loc/nn1_0_0_1.png",
+                    "ICE/106_107/loc/nn2_1_0_1.png",
+                    "ICE/106_107/loc/nn3_0_0_1.png"
+                ],
+                "locwt": [
+                    "ICE/106_107/loc/nn0_1_wt_0_1.png",
+                    "ICE/106_107/loc/nn1_0_wt_0_1.png",
+                    "ICE/106_107/loc/nn2_1_wt_0_1.png",
+                    "ICE/106_107/loc/nn3_0_wt_0_1.png"
+                ]
+            },
+            "3": {
+                "tit": "142_143",
+                "classes": [
+                    142,
+                    143
+                ],
+                "class_names": [
+                    "Caspian_Tern",
+                    "Common_Tern"
+                ],
+                "title": "CUB_[142, 143]_8_layer4",
+                "glo": "ICE/142_143/glo/0_1.png",
+                "imgs": [
+                    "ICE/142_143/imgs/n0_0.png",
+                    "ICE/142_143/imgs/n1_1.png",
+                    "ICE/142_143/imgs/n2_1.png",
+                    "ICE/142_143/imgs/n3_0.png"
+                ],
+                "glowt": "ICE/142_143/glo/0_1_wt.png",
+                "loc": [
+                    "ICE/142_143/loc/nn0_0_0_1.png",
+                    "ICE/142_143/loc/nn1_1_0_1.png",
+                    "ICE/142_143/loc/nn2_1_0_1.png",
+                    "ICE/142_143/loc/nn3_0_0_1.png"
+                ],
+                "locwt": [
+                    "ICE/142_143/loc/nn0_0_wt_0_1.png",
+                    "ICE/142_143/loc/nn1_1_wt_0_1.png",
+                    "ICE/142_143/loc/nn2_1_wt_0_1.png",
+                    "ICE/142_143/loc/nn3_0_wt_0_1.png"
+                ]
+            },
+            "4": {
+                "tit": "153_154",
+                "classes": [
+                    153,
+                    154
+                ],
+                "class_names": [
+                    "Red_eyed_Vireo",
+                    "Warbling_Vireo"
+                ],
+                "title": "CUB_[153, 154]_8_layer4",
+                "glo": "ICE/153_154/glo/0_1.png",
+                "imgs": [
+                    "ICE/153_154/imgs/n0_0.png",
+                    "ICE/153_154/imgs/n1_0.png",
+                    "ICE/153_154/imgs/n2_1.png",
+                    "ICE/153_154/imgs/n3_1.png"
+                ],
+                "glowt": "ICE/153_154/glo/0_1_wt.png",
+                "loc": [
+                    "ICE/153_154/loc/nn0_0_0_1.png",
+                    "ICE/153_154/loc/nn1_0_0_1.png",
+                    "ICE/153_154/loc/nn2_1_0_1.png",
+                    "ICE/153_154/loc/nn3_1_0_1.png"
+                ],
+                "locwt": [
+                    "ICE/153_154/loc/nn0_0_wt_0_1.png",
+                    "ICE/153_154/loc/nn1_0_wt_0_1.png",
+                    "ICE/153_154/loc/nn2_1_wt_0_1.png",
+                    "ICE/153_154/loc/nn3_1_wt_0_1.png"
+                ]
+            },
+            "5": {
+                "tit": "59_63",
+                "classes": [
+                    59,
+                    63
+                ],
+                "class_names": [
+                    "Glaucous_winged_Gull",
+                    "Ring_billed_Gull"
+                ],
+                "title": "CUB_[59, 63]_8_layer4",
+                "glo": "ICE/59_63/glo/0_1.png",
+                "imgs": [
+                    "ICE/59_63/imgs/n0_1.png",
+                    "ICE/59_63/imgs/n1_0.png",
+                    "ICE/59_63/imgs/n2_0.png",
+                    "ICE/59_63/imgs/n3_1.png"
+                ],
+                "glowt": "ICE/59_63/glo/0_1_wt.png",
+                "loc": [
+                    "ICE/59_63/loc/nn0_1_0_1.png",
+                    "ICE/59_63/loc/nn1_0_0_1.png",
+                    "ICE/59_63/loc/nn2_0_0_1.png",
+                    "ICE/59_63/loc/nn3_1_0_1.png"
+                ],
+                "locwt": [
+                    "ICE/59_63/loc/nn0_1_wt_0_1.png",
+                    "ICE/59_63/loc/nn1_0_wt_0_1.png",
+                    "ICE/59_63/loc/nn2_0_wt_0_1.png",
+                    "ICE/59_63/loc/nn3_1_wt_0_1.png"
+                ]
+            }
+        },
+        "reason": "The overall image is darker than usual. The AI robot identified feature 2 wrongly due to this darkness."
+    },
+    "ACE": {
+        "sources": {
+            "0": {
+                "tit": "154_178",
+                "classes": [
+                    154,
+                    178
+                ],
+                "class_names": [
+                    "Warbling_Vireo",
+                    "Tennessee_Warbler"
+                ],
+                "title": "CUB_[154, 178]_8_layer4",
+                "glo": "ACE/154_178/glo/0_1.png",
+                "imgs": [
+                    "ACE/154_178/imgs/n1_0.png",
+                    "ACE/154_178/imgs/n2_0.png"
+                ]
+            },
+            "1": {
+                "tit": "72_139",
+                "classes": [
+                    72,
+                    139
+                ],
+                "class_names": [
+                    "Blue_Jay",
+                    "Summer_Tanager"
+                ],
+                "title": "CUB_[72, 139]_8_layer4",
+                "glo": "ACE/72_139/glo/0_1.png",
+                "imgs": [
+                    "ACE/72_139/imgs/n0_1.png",
+                    "ACE/72_139/imgs/n1_0.png",
+                    "ACE/72_139/imgs/n2_0.png",
+                    "ACE/72_139/imgs/n3_1.png"
+                ]
+            },
+            "2": {
+                "tit": "106_107",
+                "classes": [
+                    106,
+                    107
+                ],
+                "class_names": [
+                    "Common_Raven",
+                    "White_necked_Raven"
+                ],
+                "title": "CUB_[106, 107]_8_layer4",
+                "glo": "ACE/106_107/glo/0_1.png",
+                "imgs": [
+                    "ACE/106_107/imgs/n0_1.png",
+                    "ACE/106_107/imgs/n1_0.png",
+                    "ACE/106_107/imgs/n2_1.png",
+                    "ACE/106_107/imgs/n3_0.png"
+                ]
+            },
+            "3": {
+                "tit": "142_143",
+                "classes": [
+                    142,
+                    143
+                ],
+                "class_names": [
+                    "Caspian_Tern",
+                    "Common_Tern"
+                ],
+                "title": "CUB_[142, 143]_8_layer4",
+                "glo": "ACE/142_143/glo/0_1.png",
+                "imgs": [
+                    "ACE/142_143/imgs/n0_0.png",
+                    "ACE/142_143/imgs/n1_1.png",
+                    "ACE/142_143/imgs/n2_1.png",
+                    "ACE/142_143/imgs/n3_0.png"
+                ]
+            },
+            "4": {
+                "tit": "153_154",
+                "classes": [
+                    153,
+                    154
+                ],
+                "class_names": [
+                    "Red_eyed_Vireo",
+                    "Warbling_Vireo"
+                ],
+                "title": "CUB_[153, 154]_8_layer4",
+                "glo": "ACE/153_154/glo/0_1.png",
+                "imgs": [
+                    "ACE/153_154/imgs/n0_0.png",
+                    "ACE/153_154/imgs/n1_0.png",
+                    "ACE/153_154/imgs/n2_1.png",
+                    "ACE/153_154/imgs/n3_1.png"
+                ]
+            },
+            "5": {
+                "tit": "59_63",
+                "classes": [
+                    59,
+                    63
+                ],
+                "class_names": [
+                    "Glaucous_winged_Gull",
+                    "Ring_billed_Gull"
+                ],
+                "title": "CUB_[59, 63]_8_layer4",
+                "glo": "ACE/59_63/glo/0_1.png",
+                "imgs": [
+                    "ACE/59_63/imgs/n0_1.png",
+                    "ACE/59_63/imgs/n1_0.png",
+                    "ACE/59_63/imgs/n2_0.png",
+                    "ACE/59_63/imgs/n3_1.png"
+                ]
+            }
+        },
+        "reason": "The overall image is darker than usual. Feature 0 is not that clear in the image."
+    },
+    "answer": [
+        [
+            0,
+            1
+        ],
+        [
+            1,
+            1,
+            1,
+            1
+        ],
+        [
+            1,
+            1,
+            0,
+            0
+        ],
+        [
+            0,
+            0,
+            1,
+            1
+        ],
+        [
+            1,
+            0,
+            0,
+            1
+        ],
+        [
+            0,
+            0,
+            1,
+            1
+        ]
+    ]
+}
